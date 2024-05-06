@@ -17,5 +17,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/tetst', function () {
-    return 'halo';
+    return 'cek';
 });
